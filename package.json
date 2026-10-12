@@ -1,0 +1,16 @@
+{
+  "name": "24cs093-awdf-practical-10",
+  "version": "1.0.0",
+  "description": "CHARUSAT ITUE301 Practical 10: Asynchronous Processing with Event-Driven Architecture (EventEmitter)",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "start:backend": "npm --prefix backend start",
+    "test:backend": "npm --prefix backend test",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint",
+    "test": "npm --prefix backend test"
+  },
+  "author": "Param Shah (24CS093)",
+  "license": "ISC"
+}
